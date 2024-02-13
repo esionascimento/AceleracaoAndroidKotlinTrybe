@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinBasico/Ex01.kt" afterDir="false" />
+    <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="exercise 01 made from basic kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinBasico/Ex02.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex01Kt">
+  <component name="RunManager" selected="Kotlin.Ex02Kt">
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.AppKt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
@@ -68,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.kotlinBasico.Ex02Kt" />
+      <module name="AceleracaoAndroidKotlinTrybe.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex02Kt" />
         <item itemvalue="Kotlin.Ex01Kt" />
         <item itemvalue="Kotlin.AppKt" />
       </list>
@@ -91,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707864759959</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercise 01 made from basic kotlin">
+      <option name="closed" value="true" />
+      <created>1707865532720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707865532720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercise 01 made from basic kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 01 made from basic kotlin" />
   </component>
 </project>
