@@ -1,4 +1,4 @@
-package com.betrybe.aula01
+package com.betrybe.exercises.aula01
 
 /*
     Escrever um programa que recaba três números inteiros,

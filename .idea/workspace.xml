@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="exercise 01 made from basic kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinBasico/Ex02.kt" afterDir="false" />
+    <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="exercise 02 made from basic kotlin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aula01/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula01/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aula01/Ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula01/Ex01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aula01/Ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula01/Ex02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aula01/Ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula01/Ex03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinBasico/Ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/kotlinBasico/Ex01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinBasico/Ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/kotlinBasico/Ex02.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,7 @@
     "Gradle.Build AceleracaoAndroidKotlinTrybe.executor": "Run",
     "Kotlin.AppKt.executor": "Run",
     "Kotlin.Ex01Kt.executor": "Run",
+    "Kotlin.Ex02Kt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -107,11 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707865532720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercise 02 made from basic kotlin">
+      <option name="closed" value="true" />
+      <created>1707866153491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707866153491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercise 01 made from basic kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 01 made from basic kotlin" />
+    <MESSAGE value="exercise 02 made from basic kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 02 made from basic kotlin" />
   </component>
 </project>

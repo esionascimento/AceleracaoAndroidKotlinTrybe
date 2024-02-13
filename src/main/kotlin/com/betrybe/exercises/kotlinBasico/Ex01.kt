@@ -1,4 +1,4 @@
-package com.betrybe.kotlinBasico
+package com.betrybe.exercises.kotlinBasico
 
 /*
 Escreva um programa usando Kotlin que receba o salário de uma pessoa colaboradora,

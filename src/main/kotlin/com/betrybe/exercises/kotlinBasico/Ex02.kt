@@ -1,4 +1,4 @@
-package com.betrybe.kotlinBasico
+package com.betrybe.exercises.kotlinBasico
 
 /*
 Cada degrau de uma escada tem X de altura.
