@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="exercise 03 made from basic kotlin" />
+    <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="exercise 03 made from basic kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/kotlinBasico/Ex04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,7 @@
     "Kotlin.Ex01Kt.executor": "Run",
     "Kotlin.Ex02Kt.executor": "Run",
     "Kotlin.Ex03Kt.executor": "Run",
+    "Kotlin.Ex04Kt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -53,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex03Kt">
+  <component name="RunManager" selected="Kotlin.Ex04Kt">
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.AppKt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
@@ -82,8 +86,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.kotlinBasico.Ex04Kt" />
+      <module name="AceleracaoAndroidKotlinTrybe.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex04Kt" />
         <item itemvalue="Kotlin.Ex03Kt" />
         <item itemvalue="Kotlin.Ex02Kt" />
         <item itemvalue="Kotlin.Ex01Kt" />
@@ -139,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707866770549</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercise 03 made from basic kotlin">
+      <option name="closed" value="true" />
+      <created>1707866818976</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707866818976</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
