@@ -1,16 +1,16 @@
 package com.betrybe.exercises.aula03
 
-interface Forma2D {
-    fun calcularArea(): Double
+interface Forma2D2 {
+    val area: Double
 }
 
-class Retangulo(val largura: Double, val altura: Double) : Forma2D {
+class Retangulo2(val largura: Double, val altura: Double) : Forma2D2 {
 
-    override fun calcularArea(): Double = largura * altura
-
+    override val area: Double
+        get() = largura * altura
 }
 
 fun main() {
-    val ret = Retangulo(3.0, 5.0)
-    println(ret.calcularArea())
+    val ret = Retangulo2(3.0, 5.0)
+    println(ret.area)
 }

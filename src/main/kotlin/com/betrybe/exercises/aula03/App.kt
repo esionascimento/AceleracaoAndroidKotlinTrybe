@@ -1,47 +1,32 @@
-package com.betrybe.exercises.aula02
+package com.betrybe.exercises.aula03
+
+abstract class Animal {
+    abstract val raca: String
+    abstract fun comer()
+}
+
+class Coelho : Animal() {
+    override val raca: String
+        get() = TODO("Not yet implemented")
+
+    override fun comer() {
+        TODO("Not yet implemented")
+    }
+}
+
+class Pessoa(val nome: String, val idade: Int, val email: String = "") {
+    fun imprimirNome(mensagem: String = "Olá") {
+        println("$mensagem $nome")
+    }
+}
 
 fun main() {
-    // arrays
-    val num1 = arrayOf(10, 20, 30, 40, 50)
-    val num2 = Array(5) { 0 }
+    val silva = Pessoa("Nascimento Silva", 20)
 
-    for (i in num1) {
-        print("$i ")
-    }
+    println("Nome: ${silva.nome}")
+    println("Idade: ${silva.idade}")
+    println("Email: ${silva.email}")
 
-    println()
-
-    for (i in 0..<num2.size) {
-        print("${num2[i]} ")
-    }
-    println()
-
-    // lists
-    //list imutavel
-    val frutas = listOf("Banana", "Maçã", "Uva")
-    // frutas.add("Acerola") does not allow
-    //lista mutavel
-    val numeros = mutableListOf(10, 20, 30, 40, 50)
-    numeros.add(100)
-
-    for (fruta in frutas) {
-        println(fruta)
-    }
-
-    // conjunto
-    val frutas2Set = setOf("Banana", "Banana", "Maçã", "Uva")
-    // set does not allow repeating element
-    val numerosSet = mutableSetOf(1,2,3,4,5)
-
-    for (fruta in frutas2Set) {
-        print("$fruta ")
-    }
-
-    // map
-    val pessoasMap = mapOf("Bruno" to 20, "Italo" to 30, "João" to 18)
-    val pessoasMap2 = mutableMapOf("Bruno" to 20, "Italo" to 30, "João" to 18)
-
-    for (pessoa in pessoasMap.entries) {
-        println("${pessoa.key} tem ${pessoa.value} anos")
-    }
+    silva.imprimirNome()
+    silva.imprimirNome("Fala")
 }
