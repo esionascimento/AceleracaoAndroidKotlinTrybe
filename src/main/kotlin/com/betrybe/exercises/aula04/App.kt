@@ -1,32 +1,24 @@
-package com.betrybe.exercises.aula03
+package com.betrybe.exercises.aula04
 
-abstract class Animal {
-    abstract val raca: String
-    abstract fun comer()
-}
+data class User(
+    var name: String,
+)
 
-class Coelho : Animal() {
-    override val raca: String
-        get() = TODO("Not yet implemented")
-
-    override fun comer() {
-        TODO("Not yet implemented")
-    }
-}
-
-class Pessoa(val nome: String, val idade: Int, val email: String = "") {
-    fun imprimirNome(mensagem: String = "Olá") {
-        println("$mensagem $nome")
-    }
-}
+data class User2(
+    var name: String,
+    val age:Int
+)
 
 fun main() {
-    val silva = Pessoa("Nascimento Silva", 20)
+    val silva = User("Nascimento Silva")
+    // Getter
+    println(silva.name)
+    // Setter
+    silva.name = "João"
+    println(silva)
 
-    println("Nome: ${silva.nome}")
-    println("Idade: ${silva.idade}")
-    println("Email: ${silva.email}")
-
-    silva.imprimirNome()
-    silva.imprimirNome("Fala")
+    val maria = User2("Maria silva", 30)
+    // Getter
+    println(maria.name)
+    println(maria)
 }

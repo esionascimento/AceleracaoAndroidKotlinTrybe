@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d80ec7-8006-4b5d-9be3-ade1ee807a2f" name="Changes" comment="exercise 04 made from basic kotlin">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula04/App2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula04/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula04/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,62 +33,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build AceleracaoAndroidKotlinTrybe.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.AppKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Ex01Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Ex02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Ex03Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Ex04Kt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/nascimento/IdeaProjects/Kotlin/AceleracaoAndroidKotlinTrybe/src/main/kotlin/com/betrybe/exercises/kotlinBasico&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build AceleracaoAndroidKotlinTrybe.executor": "Run",
+    "Kotlin.App2Kt.executor": "Run",
+    "Kotlin.AppKt (1).executor": "Run",
+    "Kotlin.AppKt.executor": "Run",
+    "Kotlin.DelegacaoKt.executor": "Run",
+    "Kotlin.Ex01Kt.executor": "Run",
+    "Kotlin.Ex02Kt.executor": "Run",
+    "Kotlin.Ex03Kt.executor": "Run",
+    "Kotlin.Ex04Kt.executor": "Run",
+    "Kotlin.HerancaKt.executor": "Run",
+    "Kotlin.HofKt.executor": "Run",
+    "Kotlin.Main2Kt.executor": "Run",
+    "Kotlin.MainKt (1).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/nascimento/IdeaProjects/Kotlin/AceleracaoAndroidKotlinTrybe/src/main/kotlin/com/betrybe/exercises/aula04",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/kotlinBasico" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/kotlinBasico" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula04" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/poo" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula03" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/aula02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/betrybe/exercises/poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex04Kt">
-    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.AppKt" />
+  <component name="RunManager" selected="Kotlin.App2Kt">
+    <configuration name="App2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.aula04.App2Kt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.kotlinBasico.Ex01Kt" />
+    <configuration name="AppKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.aula04.AppKt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.kotlinBasico.Ex02Kt" />
+    <configuration name="DelegacaoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.poo.DelegacaoKt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.kotlinBasico.Ex03Kt" />
+    <configuration name="HerancaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.poo.HerancaKt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.kotlinBasico.Ex04Kt" />
+    <configuration name="Main2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.exercises.aula03.Main2Kt" />
       <module name="AceleracaoAndroidKotlinTrybe.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Ex04Kt" />
-        <item itemvalue="Kotlin.Ex03Kt" />
-        <item itemvalue="Kotlin.Ex02Kt" />
-        <item itemvalue="Kotlin.Ex01Kt" />
-        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="Kotlin.App2Kt" />
+        <item itemvalue="Kotlin.AppKt (1)" />
+        <item itemvalue="Kotlin.DelegacaoKt" />
+        <item itemvalue="Kotlin.HerancaKt" />
+        <item itemvalue="Kotlin.Main2Kt" />
       </list>
     </recent_temporary>
   </component>
